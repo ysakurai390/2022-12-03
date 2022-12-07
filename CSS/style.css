@@ -439,6 +439,7 @@ a {
   background-image: url(../img/recruit.png);
   width: 50%;
   background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
 }
 .contact-text-left {
@@ -455,6 +456,7 @@ a {
   width: 50%;
   background-image: url(../img/interview.png);
   background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
 }
 
